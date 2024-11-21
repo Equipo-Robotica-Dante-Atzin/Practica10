@@ -109,6 +109,11 @@ Luego de ejecutar el código en el brazo robótico el resultado final fue el sig
 ## Conclusiones
 
 ***Atzin Morales Alejandre:*** 
+La práctica realizada demostró la exitosa integración de herramientas de procesamiento digital de imágenes y programación robótica para representar físicamente una imagen mediante puntos. Utilizando MATLAB, se extrajeron coordenadas relevantes de una imagen previamente procesada, mientras que con el software Epson RC+ se programó al robot Epson C4 para interpretar esas coordenadas y reproducir el dibujo en un plano físico.
+
+El proyecto destacó la importancia de combinar conocimientos como el procesamiento de imagenes y control robótico, demostrando el potencial de esta integración en aplicaciones prácticas como la automatización de tareas gráficas o procesos de manufactura precisos. Además, permitió reforzar habilidades en programación, manejo de datos y configuración de robots industriales.
+
+Como resultado final se obtuvo un dibujo detallado y preciso, el cual por tiempo, se optó por bajar la resolución de la imagen lo que afectó directamente al detalle del dibujo final, sin embargo, esto refleja no solo la eficacia del sistema desarrollado, sino también la versatilidad de los métodos aplicados, abriendo oportunidades para futuros proyectos que involucren técnicas y tecnologías similares.
 
 
 
